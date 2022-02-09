@@ -12,7 +12,7 @@ body {
 /*===================MENU==========================*/
 
 #menu li > a {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -28,5 +28,5 @@ body {
 /*============== slider ==========*/
 
 .carousel-inner {
-    max-height: 25rem;
+    max-height: 31rem;
 }
