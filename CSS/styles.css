@@ -28,6 +28,6 @@ body {
 /*============== slider ==========*/
 
 .carousel-inner {
-    max-height: 28rem;
+    max-height: 15rem;
     max-width: 100%;
 }
