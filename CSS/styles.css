@@ -4,8 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
 body {
-    background-image: url(/IMG/background-1.jpg);
-    background-size: 60%;
     font-family:'Rubik' sans-serif ;
     overflow-y: scroll;
 }
